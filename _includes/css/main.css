@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #00B0E9;
 }
 
 h1,
@@ -125,14 +125,14 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 10px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 2em;
+        font-size: 1.5em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -171,7 +171,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding: 75px 0;
 }
 
 section h2 {
