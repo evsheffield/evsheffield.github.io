@@ -9,6 +9,6 @@ client: Start Bootstrap
 category: Web Development
 title: Dungeon Digger
 description: >
- A system that learns to procedurally create 2D dungeon game levels from human demonstrations. This project will be shown at the CHI PLAY 2018 Conference in Melbourne, Australia. Check out the <a href="https://github.com/DungeonDigger">source code</a> and the paper - <em>Dungeon Digger: Apprenticeship Learning for Procedural Dungeon Building Agents</em> [<a href="docs/dungeon-digger-apprenticeship.pdf">preprint</a>]
+ A system that learns to procedurally create 2D dungeon game levels from human demonstrations. Check out the <a href="https://github.com/DungeonDigger">source code</a> and the paper - <em>Dungeon Digger: Apprenticeship Learning for Procedural Dungeon Building Agents</em>, published in the proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play [<a href="docs/dungeon-digger-apprenticeship.pdf">preprint</a>] [<a href="https://dl.acm.org/citation.cfm?id=3271539">ACM Link</a>]
 
 ---
