@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 1
+date: 2018-09-10
+img: projecthonor.png
+alt: Project Honor
+project-date: April 2014
+client: Start Bootstrap
+category: Game Development
+title: Project Honor
+description: >
+ Developed with a small group for a Game AI class, this Unity project demonstrates teams of AI agents that behave tactically and strategically through the use of finite state machines and hierarchical command passing.
+ Check out the <a href="https://github.com/xylitogum/Project-Honor">source code</a> and the video demonstrations. [<a href="https://www.youtube.com/watch?v=p3RhdbsQIpE">Video 1</a>] [<a href="https://www.youtube.com/watch?v=sqrpCTzVebI">Video 2</a>]
+
+---
