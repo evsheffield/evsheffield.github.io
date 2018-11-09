@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2018-09-10
-img: projecthonor.png
+img: projecthonor1.png
 alt: Project Honor
 project-date: April 2014
 client: Start Bootstrap
